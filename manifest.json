@@ -2,7 +2,7 @@
   "visualization": "radar_chart.js",
   "name": "Spider (Radar) Chart",
   "description": "A radar chart visualization using Chart.js",
-  "author": "Your Name",
+  "author": "Joel Keeble",
   "icon": "radar",
   "config": {
     "dimensions": {
